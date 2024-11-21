@@ -16,6 +16,12 @@ The following **required** functionality is completed:
 
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
+
+      
+## Future Improvments
+- [ ] Improve the UI by using different fonts/colors/background
+- [ ] Feel free to play around with other elements, such as image views, textfields, etc.
+- [ ] Implement a way to change the color of the text as well
  
 ## Video Walkthrough
 
@@ -24,10 +30,6 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-
-- Improve the UI by using different fonts/colors/background
-- Feel free to play around with other elements, such as image views, textfields, etc.
-- Iplement a way to change the color of the text as well
 
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
 - Example App: Instagram
