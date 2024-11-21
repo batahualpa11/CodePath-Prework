@@ -32,9 +32,27 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
-- Example App: Instagram
+- OBD Fusion
+   - Works with apple carplay 
+   - Reading vechicle information
+   - Diagnostic reports
+- LinkedIn
+   - Pronouncing your name feature
+   - Connections to potential job opportunities
+   - New BETA "video" feature (similar to Tiktok)
+- iBend Pipe or QuickBend
+   - Press and slide to select measurement
+   - Apple watch compatible
+   - selection of bending tool feature
+- Bluesky Social
    - Changing the background color of the messages screen
    - Deleting old messages
+           - Improvements
+                   - Add a bookmark feature
+- Yogger: Movement Analysis App
+   - Computer vision object tracking feature
+   - Instant Biomechanical Data
+  
 
 ## Notes
 
