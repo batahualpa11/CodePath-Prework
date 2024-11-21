@@ -25,6 +25,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+- Improve the UI by using different fonts/colors/background
+- Feel free to play around with other elements, such as image views, textfields, etc.
+- Iplement a way to change the color of the text as well
+
+Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
+- Example App: Instagram
+   - Changing the background color of the messages screen
+   - Deleting old messages
+
 ## Notes
 
 Describe any challenges encountered while building the app.
