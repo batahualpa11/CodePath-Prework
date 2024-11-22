@@ -2,13 +2,13 @@
 CodePath Prework Project
 
 
-# Prework - *Name of App Here*
+# Prework - iOS basics 
 
-Submitted by: **Your Name Here**
+Submitted by: **Brian Atahualpa**
 
-**Name of your app** is an app that... [TODO] 
+**iOS basics** is an app that teaches the basics of iOS development 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -25,9 +25,6 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
@@ -52,13 +49,13 @@ Make a list of your favorite 3-5 applications and identify 2-3 features that mak
 - Yogger: Movement Analysis App
    - Computer vision object tracking feature
    - Instant Biomechanical Data
- 
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
-  
+
+## Potential App Idea
+   - I'd like to create an app that allows users to monitor there progress with each session for any workout. It can track their biomechanical movements to help weightlifters, golf, soccer, and swimming athletes. In return allowing them to improve their technique. 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- One notable problem I faced was when importing my work on my local computer to github using git. 
 
 ## License
 
