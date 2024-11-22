@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 - [ ] Implement a way to change the color of the text as well
  
 ## Video Walkthrough
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4)
+[Guide] (https://www.youtube.com/watch?v=GA92eKlYio4)
 
 ## App Brainstorming (Step 4)
 
