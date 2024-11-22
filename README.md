@@ -20,7 +20,10 @@ The following **required** functionality is completed:
 - [ ] Implement a way to change the color of the text as well
  
 ## Video Walkthrough
-[Guide] (https://www.youtube.com/watch?v=GA92eKlYio4)
+<a href="https://www.loom.com/share/0fc324f3ae82498aa85ee9896ca477f7">
+   <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0fc324f3ae82498aa85ee9896ca477f7-667dc775ebd2ea82-full-play.gif">
+</a>
+  
 
 ## App Brainstorming (Step 4)
 
