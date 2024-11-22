@@ -14,8 +14,8 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
 
       
 ## Future Improvments
@@ -52,6 +52,8 @@ Make a list of your favorite 3-5 applications and identify 2-3 features that mak
 - Yogger: Movement Analysis App
    - Computer vision object tracking feature
    - Instant Biomechanical Data
+ 
+Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
   
 
 ## Notes
