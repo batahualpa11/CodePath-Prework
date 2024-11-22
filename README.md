@@ -1,12 +1,8 @@
-# CodePath-Prework
-CodePath Prework Project
-
-
 # Prework - iOS basics 
 
 Submitted by: **Brian Atahualpa**
 
-**iOS basics** is an app that teaches the basics of iOS development 
+**iOS basics** is an app that teaches the fundamentals of iOS development 
 
 Time spent: **2** hours spent in total
 
